@@ -15,6 +15,7 @@
 		72F945C11C9D400D0023AF2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72F945BF1C9D400D0023AF2D /* LaunchScreen.storyboard */; };
 		72F945CC1C9D400D0023AF2D /* UdemySampleCodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 72F945CB1C9D400D0023AF2D /* UdemySampleCodeTests.m */; };
 		72F945D71C9D400D0023AF2D /* UdemySampleCodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 72F945D61C9D400D0023AF2D /* UdemySampleCodeUITests.m */; };
+		72F945E51C9D40F50023AF2D /* 12743881_625448714274532_6813006787747577708_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72F945E41C9D40F50023AF2D /* 12743881_625448714274532_6813006787747577708_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		72F945D21C9D400D0023AF2D /* UdemySampleCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UdemySampleCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72F945D61C9D400D0023AF2D /* UdemySampleCodeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UdemySampleCodeUITests.m; sourceTree = "<group>"; };
 		72F945D81C9D400D0023AF2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72F945E41C9D40F50023AF2D /* 12743881_625448714274532_6813006787747577708_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12743881_625448714274532_6813006787747577708_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 		72F945B11C9D400D0023AF2D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				72F945E41C9D40F50023AF2D /* 12743881_625448714274532_6813006787747577708_n.jpg */,
 				72F945B21C9D400D0023AF2D /* main.m */,
 			);
 			name = "Supporting Files";
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72F945E51C9D40F50023AF2D /* 12743881_625448714274532_6813006787747577708_n.jpg in Resources */,
 				72F945C11C9D400D0023AF2D /* LaunchScreen.storyboard in Resources */,
 				72F945BE1C9D400D0023AF2D /* Assets.xcassets in Resources */,
 				72F945BC1C9D400D0023AF2D /* Main.storyboard in Resources */,
